@@ -1,0 +1,5 @@
+setup.py
+musicTheory.egg-info/PKG-INFO
+musicTheory.egg-info/SOURCES.txt
+musicTheory.egg-info/dependency_links.txt
+musicTheory.egg-info/top_level.txt
